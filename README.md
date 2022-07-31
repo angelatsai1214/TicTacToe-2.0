@@ -1,0 +1,2 @@
+# TicTacToe-2.0
+This game is different from the classic tic tac toe game. In this game, there can be 3-10 players. Instead of a 3x3 board, the board size will be player count + 1 x player count + 1. For example if 6 players want to play, it’ll be a 7x7 board and if 4 players want to play it will be a 5x5 board. Finally, players also get to choose the number of consecutive pieces in order to win the game. Minimum can be 3 and maximum can be player count +1.
